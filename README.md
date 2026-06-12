@@ -1,4 +1,4 @@
-# Hi, I'm a Generalist 👋
+# Hi, I'm a Maulana Adib 👋
 
 I'm not someone who can be boxed into one label — I enjoy learning new things and going deep across different industries and domains. If something looks interesting, I'll probably end up tinkering with it.
 
