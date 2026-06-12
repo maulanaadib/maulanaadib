@@ -1,37 +1,35 @@
-## Hi there 👋
+# Hi, I'm a Generalist 👋
 
+I'm not someone who can be boxed into one label — I enjoy learning new things and going deep across different industries and domains. If something looks interesting, I'll probably end up tinkering with it.
 
+## 🧠 What I Do
 
-<!--# Halo semua! -->
+- **Problem Solving & Analysis** — I like breaking down problems, understanding how systems work, and finding practical solutions. Call it systems thinking.
+- **Development** — Python, JavaScript, web development, and automation.
+- **Self-Hosted Infrastructure** — I run my own home server setup, having gone through Proxmox, TrueNAS / TrueNAS SCALE, OpenMediaVault, and CasaOS. Currently running **ZimaOS** (Docker-based).
+- **AI/LLM Infrastructure** — On my server I run a multi-instance Ollama setup (basically load-balanced local LLMs), integrated with Open WebUI for chat, and accessible via API key for coding assistants like Kodu (VS Code extension), Claude Code, Kilo Code, and OpenCode.
+- **Hardware & Networking** — Comfortable setting up and maintaining home server/network environments.
 
-Perkenalkan nama saya **Maulana Adib**.<br>
+## 🌱 Currently
 
-<!--Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+- Building a small business while trying to finish my (slightly stuck) thesis 😅
+- Participated in a Web3 hackathon — didn't win, but learned a lot.
+- Always exploring new tools, stacks, and setups across different fields.
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+## 💬 Ask Me About
 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br> -->
+- Self-hosted servers & home labs
+- Local LLM setups (Ollama, Open WebUI, multi-instance/load balancing)
+- Web development & automation with Python/JS
+- General problem-solving, system design, or "how would you approach this?" type questions
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/maulana-adib-sultoni-363563222/)ku ya.
+Feel free to reach out — I'm always happy to talk shop or nerd out about random projects.
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-<!--
-**maulanaadib/maulanaadib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Connect With Me
 
-Here are some ideas to get you started:
+- LinkedIn: https://www.linkedin.com/in/maulana-adib-sultoni-363563222/
+- Instagram: #
+- Email: dibdev02@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+⭐️ Open to collaboration, discussions, or just chatting about cool projects.
